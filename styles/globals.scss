@@ -1,0 +1,18 @@
+@use './abstracts' as vars;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: Google Sans;
+  background-color: lightgrey;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
